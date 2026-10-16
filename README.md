@@ -1,11 +1,10 @@
 # 🎬 MovieCity | Filmes e entretenimento
 
 Uma Landing Page dedicada ao universo cinematográfico, desenvolvida com React e Vite.
-<div align="center">
+<div align="left">
 
-Explore o universo do cinema!
 
-<img src="./preview.png" alt="Prévia do projeto MovieCity" width="800">
+<img src="./Captura de tela 2026-10-16 091116.png" alt="Prévia do projeto MovieCity" width="800">
 
 </div
 
